@@ -183,9 +183,7 @@ position: absolute;
 }
 
 .open-menu{
-    width: 24px;
-    height: 24px;
-  background-image: url(/images/small-menu.svg);  
+  background-color: white;
   border: none;
 }
 
