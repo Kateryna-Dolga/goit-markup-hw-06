@@ -185,7 +185,8 @@ position: absolute;
 .open-menu{
     width: 24px;
     height: 24px;
-  background-color: #404BBF;  
+  background-image: url(/images/small-menu.svg);  
+  border: none;
 }
 
 /*-----------------/header-------------------------------------------------------------*/
